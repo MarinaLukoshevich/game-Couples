@@ -1,6 +1,5 @@
 @import url('./confetti.css');
 
-
 body, html {
   box-sizing: border-box;
   margin:0;
@@ -176,7 +175,6 @@ color: #daffa7;
 
 
 i {
-  font-size: 40px;
   color: var(--white);
   opacity: 0;
   transition: opacity 0.3s ease-in-out;
